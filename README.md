@@ -1,3 +1,8 @@
+### Atividade realizada pelo bootcamp DIO e Philips
+Orientado por: Ivonaldo Soares. 
+Arquivos exemplo do introdução a diretivas, porem não se encontra a pasta node-modulos. 
+
+
 # AmbienteAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
